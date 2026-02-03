@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Srinidhi Santhosh Kumar</h1>
 <h3 align="center">A data and ML enthusiast with experience in business intelligence, analytics, and predictive modeling. I’ve built scalable data solutions using Power BI, SQL, Python, and Snowflake, and applied machine learning to real-world problems.</h3>
 
-- 🔭 I’m currently working on **Airlines Baggage Arrival Prediction**
 
-- 🌱 I’m currently learning **End to End ML Pipelines**
+- 🌱 I’m currently Working on **End to End ML Pipelines**
 
 - 👯 I’m looking to collaborate on **Real World ML Use case**
 
 - 🤝 I’m looking for help in understanding **Gen AI and AI Agents**
 
-- 💬 Ask me about **Data Analysis, ETL, Dashboards and AWS Services**
+- 💬 Ask me about **Data Analysis, Data Engineering, ETL, Dashboards and AWS Services**
 
 - 📫 You can reach me at **srinidhi.santhosh14@gmail.com**
 
